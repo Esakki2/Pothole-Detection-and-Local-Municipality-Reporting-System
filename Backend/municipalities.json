@@ -1,0 +1,90 @@
+{
+    "Thiruvottiyur": {
+      "email": "zone1@chennaicorporation.gov.in",
+      "location": "Thiruvottiyur, Chennai"
+    },
+    "Manali": {
+      "email": "zone2@chennaicorporation.gov.in",
+      "location": "Manali, Chennai"
+    },
+    "Madhavaram": {
+      "email": "zone3@chennaicorporation.gov.in",
+      "location": "Madhavaram, Chennai"
+    },
+    "Tondiarpet": {
+      "email": "zone4@chennaicorporation.gov.in",
+      "location": "Tondiarpet, Chennai"
+    },
+    "Royapuram": {
+      "email": "zone5@chennaicorporation.gov.in",
+      "location": "Royapuram, Chennai"
+    },
+    "Thiru-Vi-Ka Nagar": {
+      "email": "zone6@chennaicorporation.gov.in",
+      "location": "Thiru-Vi-Ka Nagar, Chennai"
+    },
+    "Ambattur": {
+      "email": "zone7@chennaicorporation.gov.in",
+      "location": "Ambattur, Chennai"
+    },
+    "Anna Nagar": {
+      "email": "zone8@chennaicorporation.gov.in",
+      "location": "Anna Nagar, Chennai"
+    },
+    "Teynampet": {
+      "email": "zone9@chennaicorporation.gov.in",
+      "location": "Teynampet, Chennai"
+    },
+    "Kodambakkam": {
+      "email": "zone10@chennaicorporation.gov.in",
+      "location": "Kodambakkam, Chennai"
+    },
+    "Valasaravakkam": {
+      "email": "zone11@chennaicorporation.gov.in",
+      "location": "Valasaravakkam, Chennai"
+    },
+    "Alandur": {
+      "email": "zone12@chennaicorporation.gov.in",
+      "location": "Alandur, Chennai"
+    },
+    "Adyar": {
+      "email": "zone13@chennaicorporation.gov.in",
+      "location": "Adyar, Chennai"
+    },
+    "Perungudi": {
+      "email": "zone14@chennaicorporation.gov.in",
+      "location": "Perungudi, Chennai"
+    },
+    "Sholinganallur": {
+      "email": "zone15@chennaicorporation.gov.in",
+      "location": "Sholinganallur, Chennai"
+    },
+    "Greater Chennai Corporation": {
+      "email": "info@chennaicorporation.gov.in",
+      "location": "Chennai City, Tamil Nadu"
+    },
+    "Kancheepuram": {
+      "email": "commr.kancheepuram@tn.gov.in",
+      "location": "Kancheepuram City, Kancheepuram District"
+    },
+    "Kundrathur": {
+      "email": "kundrathur@kancheepurammunicipality.gov.in",
+      "location": "Kundrathur, Kancheepuram District"
+    },
+    "Mangadu": {
+      "email": "mangadu@kancheepurammunicipality.gov.in",
+      "location": "Mangadu, Kancheepuram District"
+    },
+    "Sriperumbudur": {
+      "email": "sriperumbudur@kancheepuramtp.gov.in",
+      "location": "Sriperumbudur, Kancheepuram District"
+    },
+    "Uthiramerur": {
+      "email": "uthiramerur@kancheepuramtp.gov.in",
+      "location": "Uthiramerur, Kancheepuram District"
+    },
+    "Walajabad": {
+      "email": "walajabad@kancheepuramtp.gov.in",
+      "location": "Walajabad, Kancheepuram District"
+    }
+  }
